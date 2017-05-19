@@ -4,7 +4,7 @@
     "repository": "https://github.com/pzp1997/elm-json-example.git",
     "license": "BSD3",
     "source-directories": [
-        "."
+        "src"
     ],
     "exposed-modules": [],
     "dependencies": {
